@@ -5,3 +5,6 @@
 - **cars_dataset_description.pdf** - характеристика набору даних.
 - **cars_notebook.ipynb** - код для аналізу даних.
 - **cars_report_for_user.pdf** - результати аналізу даних, призначені для користувачів.
+
+## Результат:
+![Report](https://github.com/alinaHinzhulBSNU/Cars/blob/master/img/result.png)
