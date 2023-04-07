@@ -7,4 +7,6 @@
 - **cars_report_for_user.pdf** - результати аналізу даних, призначені для користувачів.
 
 ## Результат:
-![Report](https://github.com/alinaHinzhulBSNU/Cars/blob/master/img/result.png)
+<img src="https://github.com/alinaHinzhulBSNU/Cars/blob/master/img/report_1.png" width="600" alt="Report page 1">
+<img src="https://github.com/alinaHinzhulBSNU/Cars/blob/master/img/report_2.png" width="600" alt="Report page 1">
+<img src="https://github.com/alinaHinzhulBSNU/Cars/blob/master/img/report_3.png" width="600" alt="Report page 1">
